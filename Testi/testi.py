@@ -38,3 +38,11 @@ print(math.sin)
 print(math.tan)
 print(math.cos)
 
+
+leiviskä_naula= 20
+naula_luoti= 32
+luoti_gramma= 13.3
+
+naula_luoteina= naula * naula_luoti
+leiviskä_luoteina=leiviskä * leiviskä_naula * naula_luoti
+yhteensä_luoti= luoti + naula_luoteina + leiviskä_luoteina
