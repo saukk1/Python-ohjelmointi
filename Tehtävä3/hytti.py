@@ -5,7 +5,7 @@ if hyttiluokka == "A":
 elif hyttiluokka == "B":
     print("Hyttisi on ikkunaton autokannen yläpuolella")
 elif hyttiluokka == "C":
-    print("Hyttisi on ikkunaton autokannen alapuolella")
+    print("Hyttisi on ikkunaton autokannen alapuolella" )
 elif hyttiluokka == "LUX":
     print("Hyttisi on parvekkeellinen hytti yläkannella.")
 else:

@@ -8,7 +8,7 @@ if sukupuoli =="M":
     else:
         print("Hemoglobiinisi on viitearvoissa.")
 
-elif sukupuoli =="N":
+elif sukupuoli =="N" :
     Nhemo = float(input("Kerro sinun hemoglobiinisi: "))
     if Nhemo < 117:
         print("Hemoglobiinisi on alhainen.")
