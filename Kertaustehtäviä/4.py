@@ -7,6 +7,6 @@ while True:
         break
     tarina = tarina + " " + sana
 
-print(f"Tässä on tarinasi: {tarina}")
+print(f"Tässä on tarinasi:{tarina}")
 
 

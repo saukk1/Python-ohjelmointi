@@ -13,5 +13,5 @@ while True:
     if luku > suurin:
         suurin = luku
 
-    print(f"Pienin luku oli: {pienin}.")
-    print(f"Suurin luku oli: {suurin}.")
+print(f"Pienin luku oli: {pienin}.")
+print(f"Suurin luku oli: {suurin}.")
