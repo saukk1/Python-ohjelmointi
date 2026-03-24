@@ -1,7 +1,7 @@
 print("\n-------TERVETULOA KÄYTTÄMÄÄN LASKINTA-------")
 
 while True:
-    print("\nValitse mitä toimintoa haluat käyttää:\n A: Yhteenlasku \nB: Vähennyslasku\nC: Kertolasku\nD: Jakolasku")
+    print("\nValitse mitä toimintoa haluat käyttää:\nA: Yhteenlasku \nB: Vähennyslasku\nC: Kertolasku\nD: Jakolasku")
 
     valinta = input("Valintasi (A - D, Q lopettaa): ").upper()
     if valinta == "Q":
